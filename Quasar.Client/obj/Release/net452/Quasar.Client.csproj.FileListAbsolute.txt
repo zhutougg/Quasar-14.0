@@ -1,0 +1,8 @@
+D:\tmp\Quasar-1.4.0\bin\Release\net452\Client.exe.config
+D:\tmp\Quasar-1.4.0\bin\Release\net452\Client.exe
+D:\tmp\Quasar-1.4.0\Quasar.Client\obj\Release\net452\Quasar.Client.csprojAssemblyReference.cache
+D:\tmp\Quasar-1.4.0\Quasar.Client\obj\Release\net452\Quasar.Client.Properties.Resources.resources
+D:\tmp\Quasar-1.4.0\Quasar.Client\obj\Release\net452\Quasar.Client.csproj.GenerateResource.cache
+D:\tmp\Quasar-1.4.0\Quasar.Client\obj\Release\net452\Quasar.Client.csproj.CoreCompileInputs.cache
+D:\tmp\Quasar-1.4.0\Quasar.Client\obj\Release\net452\Quasar.Client.csproj.CopyComplete
+D:\tmp\Quasar-1.4.0\Quasar.Client\obj\Release\net452\Client.exe

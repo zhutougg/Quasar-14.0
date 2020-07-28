@@ -1,0 +1,4 @@
+D:\tmp\Quasar-1.4.0\bin\Release\net452\Quasar.Common.dll
+D:\tmp\Quasar-1.4.0\Quasar.Common\obj\Release\net452\Quasar.Common.csproj.CoreCompileInputs.cache
+D:\tmp\Quasar-1.4.0\Quasar.Common\obj\Release\net452\Quasar.Common.csproj.CopyComplete
+D:\tmp\Quasar-1.4.0\Quasar.Common\obj\Release\net452\Quasar.Common.dll

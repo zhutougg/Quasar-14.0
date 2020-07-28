@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "ha6TWzn2lI1RP6HHuwsP3U/1zY4O0QxO0XOTuwvvF3QS1ldC0yoxqZ7HgYC0nYtL5puEkR4VzxK/K41+K4Z/cQ==",
+  "success": true,
+  "projectFilePath": "D:\\tmp\\Quasar-1.4.0\\Quasar.Common.Tests\\Quasar.Common.Tests.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Administrator\\.nuget\\packages\\microsoft.codecoverage\\16.6.1\\microsoft.codecoverage.16.6.1.nupkg.sha512",
+    "C:\\Users\\Administrator\\.nuget\\packages\\microsoft.net.test.sdk\\16.6.1\\microsoft.net.test.sdk.16.6.1.nupkg.sha512",
+    "C:\\Users\\Administrator\\.nuget\\packages\\mstest.testadapter\\2.1.1\\mstest.testadapter.2.1.1.nupkg.sha512",
+    "C:\\Users\\Administrator\\.nuget\\packages\\mstest.testframework\\2.1.1\\mstest.testframework.2.1.1.nupkg.sha512",
+    "C:\\Users\\Administrator\\.nuget\\packages\\protobuf-net\\2.4.6\\protobuf-net.2.4.6.nupkg.sha512"
+  ],
+  "logs": []
+}

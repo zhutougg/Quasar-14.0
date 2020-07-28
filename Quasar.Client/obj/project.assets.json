@@ -1,0 +1,175 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETFramework,Version=v4.5.2": {
+      "ILRepack.Lib.MSBuild.Task/2.0.18.1": {
+        "type": "package",
+        "build": {
+          "build/ILRepack.Lib.MSBuild.Task.targets": {}
+        }
+      },
+      "MouseKeyHook/5.6.0": {
+        "type": "package",
+        "compile": {
+          "lib/net40/Gma.System.MouseKeyHook.dll": {}
+        },
+        "runtime": {
+          "lib/net40/Gma.System.MouseKeyHook.dll": {}
+        }
+      },
+      "protobuf-net/2.4.6": {
+        "type": "package",
+        "frameworkAssemblies": [
+          "System.Configuration",
+          "System.Runtime.Serialization",
+          "System.ServiceModel"
+        ],
+        "compile": {
+          "lib/net40/protobuf-net.dll": {}
+        },
+        "runtime": {
+          "lib/net40/protobuf-net.dll": {}
+        }
+      },
+      "Quasar.Common/1.0.0": {
+        "type": "project",
+        "framework": ".NETFramework,Version=v4.5.2",
+        "dependencies": {
+          "protobuf-net": "2.4.6"
+        },
+        "compile": {
+          "bin/placeholder/Quasar.Common.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Quasar.Common.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ILRepack.Lib.MSBuild.Task/2.0.18.1": {
+      "sha512": "qZ7CfC96nRO47N3IC5DYtmGCJHUzVPqrGyN6J22Drfvk97u/LK8b/weFSbJPhTv8Z2kL6RkOO/vTL+FJeRovag==",
+      "type": "package",
+      "path": "ilrepack.lib.msbuild.task/2.0.18.1",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "build/ILRepack.Lib.MSBuild.Task.dll",
+        "build/ILRepack.Lib.MSBuild.Task.targets",
+        "ilrepack.lib.msbuild.task.2.0.18.1.nupkg.sha512",
+        "ilrepack.lib.msbuild.task.nuspec"
+      ]
+    },
+    "MouseKeyHook/5.6.0": {
+      "sha512": "xDNM10IfRED0+k78O9VvY0/suqeNJVg6GttEFPP/N4CEMujwVrfU+UatFN7Rb+gdjqIfhKblz7/nG3pUQmHaJg==",
+      "type": "package",
+      "path": "mousekeyhook/5.6.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "lib/net40/Gma.System.MouseKeyHook.dll",
+        "mousekeyhook.5.6.0.nupkg.sha512",
+        "mousekeyhook.nuspec"
+      ]
+    },
+    "protobuf-net/2.4.6": {
+      "sha512": "fDYwwGw9yCERTkIzxhmiGmD3i5nB5Pw4roZ9Pi+MPNbNiNbGAA9mVrSSbTjAMNQEBXtwK/HZ6btrO2YwYsVsMw==",
+      "type": "package",
+      "path": "protobuf-net/2.4.6",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "lib/net20/protobuf-net.dll",
+        "lib/net20/protobuf-net.xml",
+        "lib/net35/protobuf-net.dll",
+        "lib/net35/protobuf-net.xml",
+        "lib/net40/protobuf-net.dll",
+        "lib/net40/protobuf-net.xml",
+        "lib/netcoreapp2.1/protobuf-net.dll",
+        "lib/netcoreapp2.1/protobuf-net.xml",
+        "lib/netstandard1.0/protobuf-net.dll",
+        "lib/netstandard1.0/protobuf-net.xml",
+        "lib/netstandard1.3/protobuf-net.dll",
+        "lib/netstandard1.3/protobuf-net.xml",
+        "lib/netstandard2.0/protobuf-net.dll",
+        "lib/netstandard2.0/protobuf-net.xml",
+        "lib/uap10.0/protobuf-net.dll",
+        "lib/uap10.0/protobuf-net.pri",
+        "lib/uap10.0/protobuf-net.xml",
+        "protobuf-net.2.4.6.nupkg.sha512",
+        "protobuf-net.nuspec"
+      ]
+    },
+    "Quasar.Common/1.0.0": {
+      "type": "project",
+      "path": "../Quasar.Common/Quasar.Common.csproj",
+      "msbuildProject": "../Quasar.Common/Quasar.Common.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    ".NETFramework,Version=v4.5.2": [
+      "ILRepack.Lib.MSBuild.Task >= 2.0.18.1",
+      "MouseKeyHook >= 5.6.0",
+      "Quasar.Common >= 1.0.0",
+      "protobuf-net >= 2.4.6"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\Administrator\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "D:\\tmp\\Quasar-1.4.0\\Quasar.Client\\Quasar.Client.csproj",
+      "projectName": "Client",
+      "projectPath": "D:\\tmp\\Quasar-1.4.0\\Quasar.Client\\Quasar.Client.csproj",
+      "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
+      "outputPath": "D:\\tmp\\Quasar-1.4.0\\Quasar.Client\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\Administrator\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net452"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net452": {
+          "projectReferences": {
+            "D:\\tmp\\Quasar-1.4.0\\Quasar.Common\\Quasar.Common.csproj": {
+              "projectPath": "D:\\tmp\\Quasar-1.4.0\\Quasar.Common\\Quasar.Common.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net452": {
+        "dependencies": {
+          "ILRepack.Lib.MSBuild.Task": {
+            "target": "Package",
+            "version": "[2.0.18.1, )"
+          },
+          "MouseKeyHook": {
+            "target": "Package",
+            "version": "[5.6.0, )"
+          },
+          "protobuf-net": {
+            "target": "Package",
+            "version": "[2.4.6, )"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.302\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

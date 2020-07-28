@@ -1,0 +1,107 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\tmp\\Quasar-1.4.0\\Quasar.Common.Tests\\Quasar.Common.Tests.csproj": {}
+  },
+  "projects": {
+    "D:\\tmp\\Quasar-1.4.0\\Quasar.Common.Tests\\Quasar.Common.Tests.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\tmp\\Quasar-1.4.0\\Quasar.Common.Tests\\Quasar.Common.Tests.csproj",
+        "projectName": "Quasar.Common.Tests",
+        "projectPath": "D:\\tmp\\Quasar-1.4.0\\Quasar.Common.Tests\\Quasar.Common.Tests.csproj",
+        "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
+        "outputPath": "D:\\tmp\\Quasar-1.4.0\\Quasar.Common.Tests\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Administrator\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net452"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net452": {
+            "projectReferences": {
+              "D:\\tmp\\Quasar-1.4.0\\Quasar.Common\\Quasar.Common.csproj": {
+                "projectPath": "D:\\tmp\\Quasar-1.4.0\\Quasar.Common\\Quasar.Common.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net452": {
+          "dependencies": {
+            "MSTest.TestAdapter": {
+              "target": "Package",
+              "version": "[2.1.1, )"
+            },
+            "MSTest.TestFramework": {
+              "target": "Package",
+              "version": "[2.1.1, )"
+            },
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[16.6.1, )"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\tmp\\Quasar-1.4.0\\Quasar.Common\\Quasar.Common.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\tmp\\Quasar-1.4.0\\Quasar.Common\\Quasar.Common.csproj",
+        "projectName": "Quasar.Common",
+        "projectPath": "D:\\tmp\\Quasar-1.4.0\\Quasar.Common\\Quasar.Common.csproj",
+        "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
+        "outputPath": "D:\\tmp\\Quasar-1.4.0\\Quasar.Common\\obj\\",
+        "projectStyle": "PackageReference",
+        "crossTargeting": true,
+        "configFilePaths": [
+          "C:\\Users\\Administrator\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net452"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net452": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net452": {
+          "dependencies": {
+            "protobuf-net": {
+              "target": "Package",
+              "version": "[2.4.6, )"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "cyj1inwSQZkl74j0zwwnEVA2a/B3qBOPc1tdygIbH4k2cuRD/d52zaV5lhE4jH9kR10eyffBETI29pwe6tNwJw==",
+  "success": true,
+  "projectFilePath": "D:\\tmp\\Quasar-1.4.0\\Quasar.Client\\Quasar.Client.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Administrator\\.nuget\\packages\\ilrepack.lib.msbuild.task\\2.0.18.1\\ilrepack.lib.msbuild.task.2.0.18.1.nupkg.sha512",
+    "C:\\Users\\Administrator\\.nuget\\packages\\mousekeyhook\\5.6.0\\mousekeyhook.5.6.0.nupkg.sha512",
+    "C:\\Users\\Administrator\\.nuget\\packages\\protobuf-net\\2.4.6\\protobuf-net.2.4.6.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,11 @@
+D:\tmp\Quasar-1.4.0\bin\Release\net452\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+D:\tmp\Quasar-1.4.0\bin\Release\net452\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+D:\tmp\Quasar-1.4.0\bin\Release\net452\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+D:\tmp\Quasar-1.4.0\bin\Release\net452\zh-Hans\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.resources.dll
+D:\tmp\Quasar-1.4.0\bin\Release\net452\zh-Hans\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.resources.dll
+D:\tmp\Quasar-1.4.0\bin\Release\net452\zh-Hans\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+D:\tmp\Quasar-1.4.0\bin\Release\net452\Quasar.Common.Tests.dll
+D:\tmp\Quasar-1.4.0\Quasar.Common.Tests\obj\Release\net452\Quasar.Common.Tests.csprojAssemblyReference.cache
+D:\tmp\Quasar-1.4.0\Quasar.Common.Tests\obj\Release\net452\Quasar.Common.Tests.csproj.CoreCompileInputs.cache
+D:\tmp\Quasar-1.4.0\Quasar.Common.Tests\obj\Release\net452\Quasar.Common.Tests.csproj.CopyComplete
+D:\tmp\Quasar-1.4.0\Quasar.Common.Tests\obj\Release\net452\Quasar.Common.Tests.dll
